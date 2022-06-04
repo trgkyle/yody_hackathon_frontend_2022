@@ -1,4 +1,4 @@
-# Real World Vue.js Boilerplate
+# Yody Frontend Hackathon 2022
 This project based on real world practice and ready to use. Have a fun!
 
 ## Features
